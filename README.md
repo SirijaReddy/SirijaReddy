@@ -1,4 +1,4 @@
-<h1 align="left">Hey, I'm Sirija Reddy</h1>
+<h1 align="left">Hey, I'm Sirija R</h1>
 
 - 🎓 I'm a CSE sophomore and my interests lie in the field of Quantum Computing.
 - 📚 I’m currently exploring Quantum Computing and its implementations in Image Processing.
