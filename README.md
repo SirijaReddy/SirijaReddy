@@ -1,7 +1,21 @@
-<h2 align="left">Hey, I'm Sirija R</h2>
+<h2 align="left">Hey, I'm Sirija</h2>
 
-- 🎓 I'm a CSE senior and my interests lie in anything Computer Science, could be Web dev, ML, AR/VR or even Quantum Computing. I love learning new things and exploring the vast field of Computer Science.
-- 📚 I’m currently exploring Quantum Computing and its implementation in Machine Learning.
-- 📫 You can send me an email at sirijar12@gmail.com :))
+<p align="left">
+  🎓 I'm a senior in Computer Science with a passion for exploring diverse fields within technology—from <strong>Web Development</strong> to <strong>Machine Learning</strong>, <strong>AR/VR</strong>, and even <strong>Quantum Computing</strong>. I thrive on learning new things and delving into the ever-expanding world of Computer Science.
+</p>
 
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirijaReddy&card_width=300&bg_color=0D1117&title_color=fff&layout=compact"/>
+<p align="left">
+  📚 Currently, I'm diving deep into Quantum Computing and its fascinating applications in Machine Learning. The potential of merging these fields excites me!
+</p>
+
+<p align="left">
+  📫 Feel free to connect with me via email at <a href="mailto:sirijar12@gmail.com">sirijar12@gmail.com</a> 😊
+</p>
+
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirijaReddy&card_width=300&bg_color=0D1117&title_color=fff&layout=compact" alt="Top Languages"/>
+</p>
+
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SirijaReddy&show_icons=true&theme=dark" alt="GitHub Stats"/>
+</p>
